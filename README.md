@@ -31,13 +31,6 @@
   <img src="https://github.com/devicons/devicon/blob/master/icons/axios/axios-original.svg" title="Axios" width="40"/>
 </p>
 
-<p align="center">
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" title="Shadcn UI" width="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" title="React Query" width="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" title="Zustand" width="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" title="Zod" width="40"/>
-</p>
-
 ---
 
 ## 🛠️ Backend Tech Stack
