@@ -28,7 +28,6 @@
   <img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" title="JavaScript" width="40"/>
   <img src="https://github.com/devicons/devicon/blob/master/icons/tailwindcss/tailwindcss-original.svg" title="Tailwind CSS" width="40"/>
   <img src="https://github.com/devicons/devicon/blob/master/icons/framermotion/framermotion-original.svg" title="Framer Motion" width="40"/>
-  <img src="[https://github.com/devicons/devicon/blob/master/icons/axios/axios-original.svg](https://github.com/devicons/devicon/blob/master/icons/axios/axios-plain-wordmark.svg)" title="Axios" width="40"/>
 </p>
 
 ---
