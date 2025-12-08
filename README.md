@@ -28,7 +28,7 @@
   <img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" title="JavaScript" width="40"/>
   <img src="https://github.com/devicons/devicon/blob/master/icons/tailwindcss/tailwindcss-original.svg" title="Tailwind CSS" width="40"/>
   <img src="https://github.com/devicons/devicon/blob/master/icons/framermotion/framermotion-original.svg" title="Framer Motion" width="40"/>
-  <img src="https://github.com/devicons/devicon/blob/master/icons/axios/axios-original.svg" title="Axios" width="40"/>
+  <img src="[https://github.com/devicons/devicon/blob/master/icons/axios/axios-original.svg](https://github.com/devicons/devicon/blob/master/icons/axios/axios-plain-wordmark.svg)" title="Axios" width="40"/>
 </p>
 
 ---
@@ -41,7 +41,6 @@
   <img src="https://github.com/devicons/devicon/blob/master/icons/postgresql/postgresql-original-wordmark.svg" title="PostgreSQL" width="40"/>
   <img src="https://github.com/devicons/devicon/blob/master/icons/redis/redis-original-wordmark.svg" title="Redis" width="40"/>
   <img src="https://github.com/devicons/devicon/blob/master/icons/prisma/prisma-original-wordmark.svg" title="Prisma" width="40"/>
-  <img src="https://github.com/devicons/devicon/blob/master/icons/typeorm/typeorm-original-wordmark.svg" title="TypeORM" width="40"/>
 </p>
 
 ---
